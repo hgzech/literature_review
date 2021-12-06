@@ -1,0 +1,10 @@
+{
+  "literature_review": {
+    "Overview": "/",
+    "module name here": "core.html",
+    "Text Extractor": "text_extractor.html",
+    "Article": "article.html",
+    "Review": "visualization.html",
+    "Title": "Untitled.html"
+  }
+}
